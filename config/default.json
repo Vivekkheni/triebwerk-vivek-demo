@@ -1,0 +1,6 @@
+{
+    "mysql": "postgres://postgres:mukund@localhost:5432/sequelize_tutorial",
+    "jwt_token_secret": "JITSI_BACKEND_MK_JWT",
+    "refresh_jwt_token_secret": "JITSI_BACKEND_REFRESH_MK_JWT"
+}
+  
